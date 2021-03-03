@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iT8mCMJ2OONEvWuUjyx6ptTjdIs3CTLxPZnkjMW/h7ceowho+EnKwzHg+xiHptj9KPbfwtaY54meR0rRdppGzQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cherk\\source\\repos\\Wpf3DDemo\\3DPlayer\\3DPlayer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cherk\\.nuget\\packages\\microsoft.netcore.windows.apisets\\1.0.1\\microsoft.netcore.windows.apisets.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

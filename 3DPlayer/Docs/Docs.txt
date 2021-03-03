@@ -1,0 +1,15 @@
+﻿//https://learn-powershell.net/2012/12/08/powershell-and-wpf-listbox-part-2datatriggers-and-observablecollection/#:~:text=An%20observable%20collection%20is%20a%20specialized%20collection%20that,use%20Register-ObjectEvent%20to%20handle%20this%20type%20of%20change.
+
+
+//https://docs.microsoft.com/en-us/dotnet/desktop/wpf/graphics-multimedia/how-to-control-a-mediaelement-play-pause-stop-volume-and-speed?view=netframeworkdesktop-4.8
+//https://docs.microsoft.com/en-us/dotnet/desktop/wpf/getting-started/walkthrough-my-first-wpf-desktop-application?view=netframeworkdesktop-4.8
+//https://www.programmersought.com/article/43026592252/
+
+
+//http://www.codearsenal.net/2012/05/mvvm.html#.YD9xCE6SnIU
+//https://robburke.net/author/robburke/page/5/
+
+//https://dzone.com/articles/extracting-file-metadata-c-and
+
+//https://github.com/dotnet/corefx/tree/f47c814b003d17da52940739e227f04e52b10279/Documentation
+//https://learning.oreilly.com/library/view/xaml-unleashed/9780133967401/ch08lev2sec14.html
