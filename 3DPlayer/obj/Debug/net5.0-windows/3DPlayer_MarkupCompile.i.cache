@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET5_0;NETCOREAPP
 C:\Users\cherk\source\repos\Wpf3DDemo\3DPlayer\App.xaml
-11151548125
+2-2083467351
 
-101065263616
+11582036015
 193582816078
-MainWindow.xaml;
+IndicationsIcon.xaml;MainWindow.xaml;
 
-False
+True
 

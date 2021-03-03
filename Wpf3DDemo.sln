@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Blend for Visual Studio Version 16
+# Visual Studio Version 16
 VisualStudioVersion = 16.0.31005.135
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3DPlayer", "3DPlayer\3DPlayer.csproj", "{210D0F56-C487-415A-8E67-5015862A1054}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "WpfPythonApp", "WpfPythonApp\WpfPythonApp.pyproj", "{DE4D680F-8B98-42A8-8832-5653AF3ECE18}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,8 @@ Global
 		{210D0F56-C487-415A-8E67-5015862A1054}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{210D0F56-C487-415A-8E67-5015862A1054}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{210D0F56-C487-415A-8E67-5015862A1054}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE4D680F-8B98-42A8-8832-5653AF3ECE18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE4D680F-8B98-42A8-8832-5653AF3ECE18}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,59 @@
+﻿<UserControl x:Class="Wpf3DPlayer.IndicationsIcon"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Wpf3DPlayer"
+             mc:Ignorable="d" 
+             d:DesignHeight="50" d:DesignWidth="50">
+    <Grid>
+        <Viewbox xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" Stretch="Uniform">
+            <Canvas Name="svg110" Width="50" Height="50" Canvas.Left="0" Canvas.Top="0">
+                <Canvas.RenderTransform>
+                    <TranslateTransform X="0" Y="0"/>
+                </Canvas.RenderTransform>
+                <Canvas.Resources/>
+                <!--Unknown tag: metadata-->
+                <!--Unknown tag: sodipodi:namedview-->
+                <Canvas Name="g108">
+                    <Canvas Name="g76">
+                        <Canvas Name="g74">
+                                <Canvas Name="g72">
+                                <Path Name="path64" Fill="#FF196DA5" StrokeThickness="0.10175">
+                                    <Path.Data>
+                                        <PathGeometry Figures="m 26.183089 19.14069 c 2.397621 0 4.341338 -1.943717 4.341338 -4.341338 0 -2.39762 -1.943717 -4.341337 -4.341338 -4.341337 -2.39762 0 -4.341337 1.943615 -4.341337 4.341337 0.0028 2.396502 1.944937 4.338489 4.341337 4.341338 z m 0 -6.94612 c 1.438533 0 2.604783 1.166149 2.604783 2.604782 0 1.438634 -1.16625 2.604782 -2.604783 2.604782 -1.43853 0 -2.604782 -1.16625 -2.604782 -2.604782 0.0017 -1.437921 1.166862 -2.603154 2.604782 -2.604782 z" FillRule="NonZero"/>
+                                    </Path.Data>
+                                </Path>
+                                <Path Name="path66" Fill="#FF196DA5" StrokeThickness="0.10175">
+                                    <Path.Data>
+                                        <PathGeometry Figures="M 32.260983 33.032827 H 30.524427 V 22.613699 c -0.0011 -0.95858 -0.777975 -1.735436 -1.736555 -1.736555 H 22.71008 c -0.95858 0.0011 -1.735435 0.777975 -1.736555 1.736555 v 1.736555 c 0.0011 0.95858 0.777975 1.735436 1.736555 1.736555 l 0.868227 -9.17e-4 v 6.946934 h -1.736555 c -0.95858 0.0011 -1.735437 0.777975 -1.736556 1.736555 v 3.473009 c 0.0011 0.95858 0.777976 1.735436 1.736556 1.736555 h 10.419129 c 0.95858 -0.0011 1.735435 -0.777873 1.736554 -1.736555 v -3.473008 c -0.001 -0.95858 -0.777872 -1.735436 -1.736452 -1.736555 z m 0 5.209564 H 21.841854 v -3.473009 h 1.736555 c 0.95858 -0.0011 1.735436 -0.777975 1.736555 -1.736555 v -6.94612 c -0.0011 -0.95858 -0.777873 -1.735436 -1.736555 -1.736555 h -0.868227 v -1.736453 h 6.077792 v 10.419128 c 0.0011 0.95858 0.777873 1.735436 1.736555 1.736555 h 1.736555 v 3.473009 z" FillRule="NonZero"/>
+                                    </Path.Data>
+                                </Path>
+                                <Path Name="path70" Fill="#FF196DA5" StrokeThickness="0.10175">
+                                    <Path.Data>
+                                        <PathGeometry Figures="m 26.183089 5.248553 
+                                                          c -11.508659 0 -20.8382564 9.329596 -20.8382564 20.838256 0.01312 11.503165 9.3350914 20.825131 20.8382564 20.838257 11.50866 0 20.838258 -9.329597 20.838258 -20.838257 0 -11.50866 -9.329598 -20.838256 -20.838258 -20.838256 
+                                                          z m 0 39.939957 
+                                                          c -10.54957 0 -19.1017004 -8.55213 -19.1017004 -19.101701 0.0119 -10.544686 8.5571154 -19.089898 19.1017004 -19.101803 10.549571 0 19.101702 8.552131 19.101702 19.101701 0 10.549571 -8.552028 19.101803 -19.101702 19.101803 z" 
+                                                      FillRule="NonZero"/>
+                                    </Path.Data>
+                                </Path>
+                                <Path Name="path705" Fill="#FF196DA5" StrokeThickness="0.122099">
+                                    <Path.Data>
+                                        <PathGeometry Figures="m 26.279765 1.274252 
+                                                          c -13.810391 0 -25.0059075 11.195516 -25.0059075 25.005908 0.01575 13.803799 11.2021095 24.990158 25.0059075 25.005908 13.810393 0 25.005909 -11.195516 25.005909 -25.005908 0 -13.810392 -11.195516 -25.005908 -25.005909 -25.005908 
+                                                          z m 0 47.92795 
+                                                          C 13.62028 49.202202 3.3577238 38.939645 3.3577238 26.28016 3.3720088 13.626535 13.626264 3.372282 26.279765 3.357996 
+                                                          c 12.659486 0 22.922042 10.262557 22.922042 22.922042 0 12.659485 -10.262433 22.922164 -22.922042 22.922164 z" 
+                                                      FillRule="NonZero"/>
+                                    </Path.Data>
+                                </Path>
+                            </Canvas>
+                        </Canvas>
+                    </Canvas>
+                </Canvas>
+            </Canvas>
+        </Viewbox>
+
+    </Grid>
+</UserControl>
